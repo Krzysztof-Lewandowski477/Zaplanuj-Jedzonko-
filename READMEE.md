@@ -1,2 +1,0 @@
-# Zaplanuj-Jedzonko-
-SCRUM project
