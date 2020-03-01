@@ -1,5 +1,5 @@
-package pl.coderslab.web;
-
+//package pl.coderslab.web;
+//nie działa
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
